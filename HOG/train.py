@@ -1,3 +1,11 @@
+# Copyright 2017 The Impetuors Authors. All Rights Reserved.
+# Authors:
+# Preetham Paul Sunkari, Praphul Singh, Harshit Saini, Aadrish Sharma
+# Limited under the License.
+##########################################################################################
+
+
+
 import os, sys
 import matplotlib.pyplot as plt
 import matplotlib.image as iread
